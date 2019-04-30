@@ -1,5 +1,5 @@
 {
-  "name": "test_json",
+  "name": "dynamic_slides",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,7 +34,9 @@
       "plugin:vue/essential",
       "@vue/prettier"
     ],
-    "rules": {},
+    "rules": {
+      "no-console": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
