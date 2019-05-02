@@ -3,42 +3,42 @@ const slides = {
     header: "Title 1",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "Slide one boi"
     }
   },
   1: {
     header: "Title 2",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "Slide twooo"
     }
   },
   2: {
-    header: "Title31",
+    header: "Title 3",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "Slide 3333"
     }
   },
   3: {
     header: "Title 4",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "sliddeee 4"
     }
   },
   4: {
     header: "Title 5",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "Slide 5"
     }
   },
   5: {
     header: "Title 6",
     content: {
       paragraph:
-        "Lorem ipsum dolor sit amet contenetur consequuntur. Similique, cupiditate optio."
+        "Slide muhhhmuhhh 6"
     }
   }
 };
