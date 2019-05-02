@@ -5,14 +5,14 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    slide_info: {
-      slide_id: null
-    }
+    slides: {}
   },
-  getters: {},
+  getters: {
+    current_slide: state => index => state.slides[index]
+  },
   mutations: {
     GET_SLIDE_INFO_FROM_JSON(state, payload) {
-      state.slide_info = payload;
+      state.slides = payload;
     }
   },
   actions: {
